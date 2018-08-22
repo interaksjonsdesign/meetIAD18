@@ -1,0 +1,29 @@
+body {
+  background-color: rgba(64, 192, 143, 0.904);
+  font: comic;
+  text-align: center;
+}
+
+h1 {
+  color: rgba(10, 22, 128, 0.904)
+}
+
+h2 {
+  color: rgb(10, 142, 165);
+  text-align: center;
+}
+
+h3 {
+  color: rgb(62, 151, 45);
+}
+
+p, ol, li, blockquote {
+  color: rgb(62, 151, 45);
+  text-align: center;
+}
+
+ol {
+  margin: 0 auto;
+  display: inline-block;
+  list-style-type: disc;
+}

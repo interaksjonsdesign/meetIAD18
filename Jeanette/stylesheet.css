@@ -1,0 +1,53 @@
+body{
+    width: 1000px;
+    color: orange;
+    background: lightgray url(KOXOBiN.gif)
+}
+.largetext{
+    font: 26pt Arial purple;
+}
+.text{
+    width: auto;
+    height: auto;
+    background: aqua;
+    color: red;
+    font: 30pt;
+    font-family: monospace;
+}
+.text1{
+    color: rgb(255, 0, 0);
+    font: 100pt;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.text2{
+    color: rgba(112, 68, 18, 0.74);
+    font: 100pt;
+    font-family: fantasy;
+    background: whitesmoke;
+}
+.text3{
+    color: rgb(0, 183, 255);
+    font: 100pt;
+    font-family: fantasy;
+    background: whitesmoke;
+}
+.text4{
+    color: rgb(255, 1, 107);
+    font: 100pt;
+    font-family: fantasy;
+    background: whitesmoke;
+}
+.divmain1{
+    width: 1000px;
+    height: auto;
+    Color: white;
+    background:rgb(241, 44, 70);
+    border: 2px orange dotted;
+}
+.divmain2{
+    width: 1000px;
+    height: auto;
+    Color: white;
+    background: greenyellow;
+    border: 2px orange dotted;
+}
